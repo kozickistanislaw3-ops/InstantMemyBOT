@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "InstantMemyBOT",
   "bot-account": {
     "username": "InstantMemyBOT",
-    "password": "",
+    "password": "chalo178",
     "type": "offline"
   },
   "server": {
     "ip": "Memyinstant.aternos.me",
     "port": 14973,
-    "version": "",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
